@@ -1,4 +1,4 @@
-# Product-Feedback-Analysis-Using-Topic-Modeling
+# Product Feedback Analysis Using Topic Modeling
 
 This repository contains the code and report for a topic modeling project that analyzes YouTube comments on a smartphone model using Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA). The objective is to uncover hidden themes and sentiments in user feedback.
 
